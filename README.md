@@ -198,13 +198,13 @@ This project focuses on making policy documents easier to understand by combinin
 
 ---
 ## Output
-<img width="800" height="550" alt="Screenshot 2026-06-10 at 9 39 16 PM" src="https://github.com/user-attachments/assets/66bd8ff3-bb3f-49aa-8f9b-4f1554d49965" />
-<img width="800" height="607" alt="Screenshot 2026-06-10 at 9 39 32 PM" src="https://github.com/user-attachments/assets/b1780080-21d0-408b-8412-6a85b2f3ab33" />
-<img width="800" height="617" alt="Screenshot 2026-06-10 at 9 43 42 PM" src="https://github.com/user-attachments/assets/ac13d863-e032-4b55-8cb3-466ce71de74d" />
-<img width="800" height="613" alt="Screenshot 2026-06-10 at 9 44 17 PM" src="https://github.com/user-attachments/assets/354d319d-eaf9-4d45-a26d-a1c18e94187a" />
-<img width="800" height="623" alt="Screenshot 2026-06-10 at 9 52 04 PM" src="https://github.com/user-attachments/assets/9c381614-33ff-460a-b47c-fde6e3fa7505" />
-<img width="800" height="608" alt="Screenshot 2026-06-10 at 9 52 16 PM" src="https://github.com/user-attachments/assets/f24a32b2-7ba0-40ed-92a2-4c5d66f06f7d" />
-<img width="800" height="609" alt="Screenshot 2026-06-10 at 9 52 30 PM" src="https://github.com/user-attachments/assets/635a1739-51ff-4cde-be9c-d1dc23b560ce" />
+<img width="800"  alt="Screenshot 2026-06-10 at 9 39 16 PM" src="https://github.com/user-attachments/assets/66bd8ff3-bb3f-49aa-8f9b-4f1554d49965" />
+<img width="800"  alt="Screenshot 2026-06-10 at 9 39 32 PM" src="https://github.com/user-attachments/assets/b1780080-21d0-408b-8412-6a85b2f3ab33" />
+<img width="800"  alt="Screenshot 2026-06-10 at 9 43 42 PM" src="https://github.com/user-attachments/assets/ac13d863-e032-4b55-8cb3-466ce71de74d" />
+<img width="800"  alt="Screenshot 2026-06-10 at 9 44 17 PM" src="https://github.com/user-attachments/assets/354d319d-eaf9-4d45-a26d-a1c18e94187a" />
+<img width="800"  alt="Screenshot 2026-06-10 at 9 52 04 PM" src="https://github.com/user-attachments/assets/9c381614-33ff-460a-b47c-fde6e3fa7505" />
+<img width="800"  alt="Screenshot 2026-06-10 at 9 52 16 PM" src="https://github.com/user-attachments/assets/f24a32b2-7ba0-40ed-92a2-4c5d66f06f7d" />
+<img width="800"  alt="Screenshot 2026-06-10 at 9 52 30 PM" src="https://github.com/user-attachments/assets/635a1739-51ff-4cde-be9c-d1dc23b560ce" />
 
 
 
