@@ -34,7 +34,7 @@ The application supports:
 ### 2. Retrieval-Augmented Generation (RAG)
 
 - Relevant document chunks are retrieved based on the user query
-- Retrieved context is provided to Gemini
+- Retrieved context is provided to Grok
 - Responses are generated using only the retrieved information
 
 ### 3. Multi-Agent Analysis
@@ -95,7 +95,7 @@ policy_rag/
 - FastAPI
 - LangGraph
 - ChromaDB
-- Google Gemini
+- Grok
 - Sentence Transformers
 - Plotly
 - RAGAS
@@ -119,7 +119,7 @@ pip install -r requirements.txt
 Create a `.env` file and add the following configuration:
 
 ```env
-GEMINI_API_KEY=your_api_key
+GROK_API_KEY=your_api_key
 CHROMA_PERSIST_DIR=./data/chroma_db
 EMBEDDING_MODEL=all-MiniLM-L6-v2
 CHUNK_SIZE=1000
