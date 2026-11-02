@@ -16,7 +16,7 @@ UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
 
 # ── LLM ───────────────────────────────────────────────────────────────────
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
-LLM_MODEL = os.getenv("LLM_MODEL", "llama-3.3-70b-versatile")
+LLM_MODEL = os.getenv("LLM_MODEL", "llama-3.1-8b-instant")
 TEMPERATURE = float(os.getenv("TEMPERATURE", "0.2"))
 
 # ── Embeddings ────────────────────────────────────────────────────────────
